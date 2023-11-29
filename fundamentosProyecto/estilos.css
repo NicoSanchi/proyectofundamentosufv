@@ -1,0 +1,149 @@
+body  {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	margin: 0;
+	padding: 0;
+  }
+
+  header {
+	background-color: #2e2e2e;
+	color: white;
+	padding: 20px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .centrado {
+    text-align: center;
+  }
+
+  nav ul {
+	list-style: none;
+  }
+
+  nav ul li {
+	display: inline;
+	margin-right: 30px;
+  }
+
+  nav ul li a {
+	color: rgb(246, 244, 244);
+	text-decoration: none;
+  }
+
+  main {
+	padding: 20px;
+  }
+
+  .espacio{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .justificado{
+    text-align: justify;
+  }
+
+  #temas {
+    text-align: center;
+  }
+  
+  #temas .textoImagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh; 
+  }
+  
+  #temas .textoImagen img {
+    max-width: 75%; 
+    max-height: 75; 
+    height: auto;
+  }
+  
+  .linksEstilos{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+  }
+
+  .margen{
+    margin-left: 20px;
+  }
+
+  /*------------------------------------*/
+  header nav ul li:hover {
+    box-shadow: 0.2rem 0.2rem 0.4rem rgba(247, 245, 245, 0.4);
+    border-radius: 0.2rem;
+    padding: 0.25rem 0.25rem;
+  }
+
+  header nav ul li {
+    transition: box-shadow 0.3s ease;
+  }
+  /*------------------------------------*/
+  /*-------------------------------------*/
+  .fotoPiloto {
+    width: 50px;
+    height: auto;
+    align-items: flex-start;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 20px;
+  }
+
+  .piloto {
+    width: 300px;
+    height: auto;
+    margin-right: 20px;
+  }
+  /*-------------------------------------*/
+
+  footer {
+	background-color: #333;
+	color: rgb(248, 244, 244);
+	text-align: center;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+  }
+  
+  /* Oculta todas las secciones por defecto */
+  main > section {
+	display: none;
+  }
+
+  /* Muestra la sección activa */
+  main > section:target {
+	display: block;
+  }
+
+  /* Estilos para el formulario */
+  form {
+	max-width: 400px;
+	margin: 0 auto;
+  }
+
+  /* Alinear etiquetas y campos en filas */
+  form label,
+  form input[type="text"],
+  form input[type="email"],
+  form textarea,
+  form input[type="submit"] {
+	display: block;
+	width: 100%;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+  }
+
+  
+
+  
+
+
+  
