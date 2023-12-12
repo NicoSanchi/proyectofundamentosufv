@@ -13,9 +13,11 @@ Este trabajo trata de una página web para la asignatura Fundamentos de la Ingen
 
 - Otro problema que tuve (ya a la hora de estar programando la página web) era que no conseguía ajustar bien la posición de las fotos. Porque a pesar de que ajustaba bien su tamaño, luego no se cuadraba donde yo quería.
   
-- Otra dificultad que tuve fue a la hora de hacer el formulario. No sabía como hacerlo y tuve que ver un tutorial de Youtube.
+- Otra dificultad que tuve fue a la hora de hacer el formulario. Pese a tenerlo en los apuntes, no conseguía hacerlo y tuve que ver un tutorial de Youtube que me ayudase a crearlo.
 
 - Cuando ya pensaba que tenía todo hecho, a la hora de publicar la página me encontre primeramente un problema con que no me daba una URL para poder visitarla, por lo que para solucionarlo le pregunte a Illán Iglesias y me ayudo a crear otro repositorio donde tuve que cargar todos los archivos otra vez. El segundo problema a la hora de publicar la página, fue que ya en el otro repositorio que cree, a pesar de que si tenía la URL, al entrar a la página solo me dejaba ver la sección "Inicio"y al ir a las otras secciones se me quedaba en blanco y no cargaba. Gracias a la ayuda de el delegado Carlos López nos dimos cuenta que estaba mal organizada la estructuras de las carptetas y tuve que crear nuevas carpetas y llamarlas correctamente para que funcionase.
 
+- De lo que más me ha costado ha sido vincular el CSS con la página principal index. Cuando creía que tenía terminada la página, al verla todas las secciones estaban bien menos el index y me he pasado horas buscando como tenía que establecer la ruta para que funcionase hasta que encontre la forma y ya puede publicar completamente la página.
+
 # Conclusiones
-En conclusión este trabajo me ha parecido bastante interesante porque la verdad yo prefiero hacer cosas prácticas y con este trabajo hemos tenido la oportunidad de hacer. Si que me hubiera gustado ver un poco más en clase como utilizar CSS.
+En conclusión este trabajo me ha parecido bastante interesante, porque la verdad yo prefiero hacer cosas prácticas y con este trabajo hemos tenido la oportunidad de hacerlo. Si que me hubiera gustado ver un poco más en clase como utilizar CSS o como utiizar bien las rutas de archivos que es lo que más me ha costado, pero en general ha sido un proyecto entretenido que creo que ha estado bastante bien porque hemos ido pudiendo familiarizarnos con HTML y CSS y plataformas y aplicaciones que utilizaremos día a día como GitHub y Visual Studio Code.
